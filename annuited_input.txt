@@ -1,0 +1,4 @@
+amountOFCredit      420000
+bankRate            0.05
+installments        2
+years               3
